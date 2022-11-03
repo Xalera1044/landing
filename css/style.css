@@ -35,9 +35,6 @@ a {
   .container {
     width: 500px;
   }
-  .card {
-    width: 500px;
-  }
 }
 
 @media (max-width: 540px) {
